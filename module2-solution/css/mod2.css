@@ -2,6 +2,7 @@
 * {
 box-sizing: border-box;
 font-family: Helvetica;
+font-size: 17px;
 margin: 0;
 padding: 0;
 }
@@ -10,6 +11,7 @@ h1 {
 margin-bottom: 15px;
 text-align: center;
 padding-top: 10%;
+font-size: 1.75em;
 }
 
 .container {
@@ -27,15 +29,14 @@ h3 {
     border: 1px solid black;
     position: relative;
     text-align: center;
+    font-size: 1.25em;
     right: -70%;
     width: 30%;
     height: 30px;
-    padding-top: 1%;
+    padding-top: 2px;
+    padding-bottom: 2px;
     margin: 0;
 }
-
-
-
 
 #Chicken {
     background-color: #e08ea7;
@@ -57,7 +58,6 @@ padding-left: 5%;
 padding-right: 5%;
 margin-right: auto;
 margin-left: auto;
-font-size: 17px;
 color: black;
 }
 
