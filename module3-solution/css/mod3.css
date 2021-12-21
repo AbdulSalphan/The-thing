@@ -47,7 +47,11 @@ p {
     margin: auto 10px;
 }
 
+#chicken, #beef, #sushi {
+    padding: 5px;
+    background-color: rgb(84, 240, 188);
+}
+
 .col-xs-12 {
     margin-top: 40px;
-    background-color: rgb(84, 240, 188);
 }
