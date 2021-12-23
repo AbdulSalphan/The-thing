@@ -1,0 +1,18 @@
+body {
+    background-color: blueviolet;
+    color: black;
+}
+
+#header-nav {
+    background-color: rgba(235, 46, 194, 0.568);
+}
+
+.navbar-brand a {
+    color: black;
+    text-decoration: none;
+}
+
+#main-content a {
+    color: rgb(85, 235, 177);
+    text-decoration: none;
+}
